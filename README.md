@@ -12,7 +12,7 @@ To run this project, you need the following:
 ## Project Structure
 - **com.xmlmanagement.model**: Contains data model classes for Book, Chapter, Paragraph, Lines, Line and Statistics.
 - **com.xmlmanagement.services**: Contains service classes. TxtToXmlConverter, ClculateStatistics, ReadSpecificElements, Xsd Generator, XmlValidation.
-- **com.xmlmanagement.eshop**: Contains the XmlManagement (main) application class.
+- **com.xmlmanagement**: Contains the XmlManagement (main) application class.
 - **xml_files**:sample-lorem-ipsum-text-file.txt , book.xml, book2.xml, book.xsd
   
 ## Setup Instructions
