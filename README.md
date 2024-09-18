@@ -1,1 +1,1 @@
-branch: https://github.com/ElenaChaidou/ManagementXml.git
+branch: XmlManagement
